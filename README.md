@@ -1,6 +1,7 @@
 # Password Generator
 ## Overview
 
+Access the program [here](https://drwho1369.github.io/randomPassword/)
 This web application allows an employee to generate a random password based on specific criteria they've selected. The app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. The user interface is clean, polished, and responsive, ensuring adaptability to multiple screen sizes.
 Task Details
 
@@ -31,6 +32,7 @@ How to Use
 |       |-- script.js
 
 **Features**
+![image](https://github.com/DrWho1369/randomPassword/assets/125075858/ee8176dc-162c-4f68-9813-34e6778a5e5e)
 
     User-friendly interface.
     Responsive design for various screen sizes.

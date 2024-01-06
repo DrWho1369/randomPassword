@@ -31,6 +31,7 @@ How to Use
 |       |-- script.js
 
 **Features**
+![image](https://github.com/DrWho1369/randomPassword/assets/125075858/ee8176dc-162c-4f68-9813-34e6778a5e5e)
 
     User-friendly interface.
     Responsive design for various screen sizes.
